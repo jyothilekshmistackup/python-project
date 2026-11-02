@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin123",
+            "role": "admin"
+        },
+        {
+            "username": "jyothi",
+            "password": "jyothi123",
+            "role": "customer"
+        }
+    ],
+    "rooms": [
+        {
+            "room_no": 1,
+            "room_type": "Double",
+            "price": 1000.0,
+            "capacity": 2
+        }
+    ],
+    "bookings": [],
+    "next_booking_id": 1
+}
